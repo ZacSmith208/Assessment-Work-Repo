@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\obj\Debug\OOP Git Diff Assessment 2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\bin\Debug\OOP Git Diff Assessment 2.exe.config
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\bin\Debug\OOP Git Diff Assessment 2.exe
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\bin\Debug\OOP Git Diff Assessment 2.pdb
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\obj\Debug\OOP Git Diff Assessment 2.exe
+C:\Users\Hp\source\repos\OOP Git Diff Assessment 2\OOP Git Diff Assessment 2\obj\Debug\OOP Git Diff Assessment 2.pdb
